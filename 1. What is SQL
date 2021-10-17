@@ -1,0 +1,42 @@
+1. What is data?
+Ans: Any raw facts/ Information. Generally stored in files. txt, pdf, docs etc.
+==============================================================================================================================================================================
+2. What is database?
+Ans: Database is a platform to store any kind of data, Any amount of data. Also easy and faste storage and secure access.
+===============================================================================================================================================================================
+3. What is SQL server?
+Ans: SQL server is a DBMS software that is used to create and manage databases. There are normally many kinds of software to manage a database. SQL server is among one of them
+and it is developed by Microsoft. 
+===============================================================================================================================================================================
+4. Why use SQL server?
+Ans: Cheaper              Easy usage                  Free Tech support
+     Free updates         Highly scalable             Free BI tools         Free on-premise and cloud support
+===============================================================================================================================================================================
+5. What is On-premise and Cloud support? Observe the following example
+Ex-1: SQL Server can be "installed" in Windows OS environment or Linux OS environment -"ON-PREMISE (SUPPORT)"
+Ex-2: SQL Server can be "activated" on an any Enterprise levelcloud platform -"SQL SERVER ON CLOUD (SUPPORT)"
+AND ALSO
+      SQL Server can be "activated" from Virtual machine too on any cloud platform such as AWS, AZURE, GOOGLE CLOUD etc.- "SQL SERVER ON VM(SUPPORT)"
+================================================================================================================================================================================
+6. What is CLOUD?
+A virtual platform to store & operate on any data, database, applications and services.
+=================================================================================================================================================================================
+TECHNICAL TERMS YOU COME ACROSS WHEN YOU INSTALL SQL SERVER
+
+7. INSTANCE: 
+A successful installation of SQL server software. There are 2 types of instances. A default instance and named instance.
+A default instance is used in production stage of a software development lifecycle and it has a default port number which is 1433
+A named instance is usually suggested by the user while installing the SQL server. Used in developmental and testing stages.
+================================================================================================================================================================================
+8. SERVICE AND SERVICE ACCOUNT:
+Service is communication path between OS and SQL server
+Service account is the determination of whi cintrols the connection between OS and SQL server Ex: Is he a admin? Is he a user?(based on that only security can be determined)
+================================================================================================================================================================================
+9. AUTHENTICATION AND LOGIN:
+Authentication is communication between SQL server and End users
+Login is a user connecting to the SQL server.
+================================================================================================================================================================================
+10. FILESTREAM AND COLLATION
+Filestream is a mechanism to store Docs, images, Videos, Pdf, Excel, Csv files etc in SQL server
+Collation is a server level property to control the language of the SQL server(Ex: English, Chinese, telugu etc.)
+================================================================================================================================================================================
